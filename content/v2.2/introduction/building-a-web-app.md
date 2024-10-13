@@ -626,7 +626,7 @@ module Bookshelf
 end
 ```
 
-This alows our spec to pass!
+This allows our spec to pass!
 
 ```shell
 $ bundle exec rspec spec/features/books/index/pagination_spec.rb
